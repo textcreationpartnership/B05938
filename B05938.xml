@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech against pensioners</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05938</idno>
+            <idno type="STC">Wing S4852AA</idno>
+            <idno type="STC">ESTC T201693</idno>
+            <idno type="EEBO-CITATION">51784672</idno>
+            <idno type="OCLC">ocm 51784672</idno>
+            <idno type="VID">175075</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175075)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2711:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech against pensioners</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication data suggested by Wing (2nd ed.).</note>
+                  <note>Caption title.</note>
+                  <note>Concerning the alleged misuse of Crown money by pensioners of Parliament.</note>
+                  <note>Imperfect: dark, print show-through, with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:175075:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:175075:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>A SPEECH AGAINST PENSIONERS,</head>
+            <p>WIthout Doubt the laſt Parliament had g<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat Matters in Agitation, and the Enquiry they made about the Penſioners of the preceeding Parliament was no ſmall one, but rather one of the chief things they had in hand; for had they been permitted to have perfected that, it had been a good Recompence for the diſappointment which the Nation ſuſtained in their other Expectations, by the ſud<g ref="char:EOLhyphen"/>den Prorogation: And without all queſtion, nothing is fit<g ref="char:EOLhyphen"/>ter for the Thoughts of a Parliament, than to take into Conſideration how to puniſh them that had p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oved the Peſt, and had almoſt (if not altogether) ruin'd the Nation; and how to prevent the like miſchief for the future.</p>
+            <p>The Name of a Penſioner is very diſtaſtful to every <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Spirit; and all thoſe who were Penſioners <hi>I</hi> think are ſufficiently deſpiſed by their Country men: And therefore I mention only two or three things that will ly at their doors; before I offer my Advice what is to be done.</p>
+            <p>Breach of Truſt is accounted the moſt infamous Thing in the World, and this theſe Men were guilty of to the higheſt degree; Robbery and ſtealing our Law puniſhes with death, and what deſerve they who Beggar and take away all that the Nation has, under the pretenſion of diſpoſing of the Peoples Money for the Honour and Good of the King and Kingdom: And if there were nothing more than this to be ſaid, without doubt they deſerve a high Cenſure.</p>
+            <p>
+               <pb n="2" facs="tcp:175075:2"/>
+               <!-- PDF PAGE 2 -->
+Beſides the giving away ſuch vaſt Sums, without any co<g ref="char:EOLhyphen"/>lour or reaſonable pretence: There is this great miſchief will follow upon it; Every man very well knows that it has put the KING into an extraordinary way of Expence; And therefore when he has not ſuch great Supplyes. it muſt of neceſſity bring Him Into great Want and Need: And ſhall not only give Him an ill Opinion of all Parliaments that do not ſupply Him ſo extravagantly, but perhaps put Him to think of ways to get Money that otherwiſe would never have entred into His Thoughts; ſo that whatever ill may happen of this ſort, theſe Penſioners are anſwerable for it.</p>
+            <p>Furthermore, they have laid us open to all our Enemies, whoever will invade may not doubt to ſubdue us: For they have taken from us the Sinews of War, that is Money and Courage, all our Money is gone, and they have exhauſted the Treaſure of the Nation: And when People are poor, their Spirits are low, ſo that we are left without a defence, and who muſt we thank for bringing us into this deſpicable Condition, but theſe Gentlemen, who notwithſtanding this, have the Face to ſtyle themſelves His Majeſty's Friends, and all thoſe who oppoſe their practices are factious and Sedi<g ref="char:EOLhyphen"/>tious. They have brought it to that paſs, that Debates can not be free; if a Gentleman's Tongue happen to ly a little awry In his Mouth, preſently he muſt be called to the Bar; or if that would not do, whenſoever any Gentleman that has a true <hi>Engliſh</hi> Spirit happens to ſay any thing that is bold, preſently away to tell His Majeſty of it, and often times more than the Truth: And thus they endeavoured to get an ill Opinion in His Majeſty of his beſt Subjects. And their Practice was the more abominable, becauſe their Words and Actions gave the occaſion to force thoſe ſmart Expreſſions from the Gentlemen that ſpoke them, for their honeſt hearts were fired with true Zeal to His Majeſty and Countrey<g ref="char:punc">▪</g> when they beheld the Impudence and falſeneſs of theſe Penſioners.</p>
+            <p>
+               <pb n="3" facs="tcp:175075:2"/>
+               <!-- PDF PAGE 2 -->
+As for Example, We find that in or about the 10th. year of <hi>Richard</hi> 2; of <hi>England.</hi> it was endeavoured to get a Cor<g ref="char:EOLhyphen"/>rupt Parliament; for the <hi>Engliſh</hi> Story ſays, <hi>That the King ſeat far the Juſtices and Sheriffs; and enjoined them to do their beſt. that none ſhould be choſen Knights and Burgeſses, but ſuch as the King and his Council ſhould name; but we find it could not be effected.</hi>
+            </p>
+            <p>The next that occurs to my thoughts, is that in the 4th year of <hi>Henry</hi> 4th. the Parliament that was called at <hi>Coven<g ref="char:EOLhyphen"/>try,</hi> named the Lay-mens Parliament, for <hi>the Sheriffs were appointed that none ſhould be choſen Knights or Burgeſſes, that had any skill in the Laws of the Land.</hi>
+            </p>
+            <p>The next that I remember, is that in <hi>Henry</hi> 4's time, in the year 1449 or 50, when <hi>the Duke of</hi> Suffolk <hi>was accuſed by the Commons, and committed to the</hi> Tower, <hi>the King diſſolved that Parliament, not far unlike our Caſe of my Lord D—,</hi> but it differs in this, <hi>that</hi> Suffolk <hi>was committed to the</hi> Tower, <hi>as of Right he ought, but we were denyed that Juſtice againſt D— only</hi> Henry <hi>made the caſe thus far even, that he ſet</hi> Suffolk <hi>at Liberty after he had diſſolved that Parliament. Soon after a Parliament was called, wherein great care was taken in chooſing of Parliament Men that ſhould favour</hi> Suffolk: <hi>But they ſo far failed of their Purpoſe. that his Appearance at the Parliament gave great diſtaſte to the Houſe of Commons; and they were ſo far incenſed, that they began the Parliament with a freſh Accuſati<g ref="char:EOLhyphen"/>on againſt him and others;</hi> So that you may ſee that it is not alwiſe in the power of the Court continually to corrupt the Members of Parliament.</p>
+            <p>In the time of <hi>Henry</hi> 8th, about the 20th Year of his Reign when the Parliament was active againſt Pluralitys. and Non Reſidence; <hi>There was an Act paſſed to releaſe to the the King all ſuch Sums of Money as he had Borrowed at the Loan, in the</hi> 15th <hi>year of his Reign;</hi> it's ſaid that it was much oppoſ<g ref="char:EOLhyphen"/>ed, but the reaſon that is given why it paſſed is. <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Houſe was moſtly the Kings Servants, but it gave great diſ<g ref="char:EOLhyphen"/>turbance
+<pb n="4" facs="tcp:175075:3"/>
+                  <!-- PDF PAGE 3 -->to the Nation:</hi> And this is the only caſe that I can remember that comes any thing near to our Penſioners; but <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cannot find that they or any Parliament took Money to Votes So that we muſt conclude that there was never any Penſion<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> in Parliament till this Pack of Blades were got together.</p>
+            <p>Therefore Sir, what will you do? Shall theſe Men Eſ<g ref="char:EOLhyphen"/>cape, ſhall they go free with their Booty: Shall not the Na<g ref="char:EOLhyphen"/>tion have Vengeance on them, who had almoſt given up the Government. It was they who had perverted the ends of Parliament: Parliaments have been and are the great R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fuge of the Nation, that which cures all its Diſeaſes, and heals it Sores: But the Men had made it a Snare to the Nation, and at beſt had brought it to be an Engine to give Money; It therefore theſe go away unpuniſht, we countenance what they have done, and make way to have Penſioners in every Parliament; but for be any ſuch Thought from any Man that ſits within theſe Walls: And having ſaid this, I will in the next place humbly offer my Thoughts what is to be done.</p>
+            <p>In the firſt place <hi>I</hi> do propoſe that every man of them ſhall on their knees confeſs their fault to both Houſe, and that to be done at the Bar one by one.</p>
+            <p>Next, That as far as they are able, that they refound all the Money they have received for ſecret Service. Our Law will not allow a Thief to keep what he has got, by ſteal<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> but of courſe orders Reſtitution, and ſhall theſe proud Rob<g ref="char:EOLhyphen"/>bers of the Nation, nor reſtore their ill gotten Goods?</p>
+            <p>And laſtly, I do propoſe that they be Voted incapable of ſerving in Parliament for the Future, or of injoying any Office Civil or Milit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry, and order a Bill to be brought i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to that purpoſe: For it's not fit, that they who were ſo fal<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and unjuſt in that Truſt, ſhould ever be Truſted again. The Sir is my Opinion, but if the Houſe ſhall incline to any <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that way, I ſhall readily comply, provided a ſufficient ma<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Infamy be ſet on them, that the People may know w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Bought and Sold them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
